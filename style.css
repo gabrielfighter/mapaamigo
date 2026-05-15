@@ -1,0 +1,8 @@
+.row{
+    background-color: rgba(67, 152, 181, 0.135);
+}
+.col{
+    border-radius: 10px black;
+    border: 2px  yellow;
+    margin-bottom: 10px;
+}

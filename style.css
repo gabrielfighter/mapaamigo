@@ -1,8 +1,24 @@
-.row{
-    background-color: rgba(67, 152, 181, 0.135);
+container{
+    background-color: rgb(240, 240, 17);
 }
+.card-img-top{
+    height: 200px;
+    width: auto;
+    object-fit: cover;
+   
+
+}
+.btn{
+    margin-bottom: 15px;
+
+
+    }
 .col{
     border-radius: 10px black;
     border: 2px  yellow;
     margin-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+}
+nav{
+    margin-bottom:20px ;
 }
